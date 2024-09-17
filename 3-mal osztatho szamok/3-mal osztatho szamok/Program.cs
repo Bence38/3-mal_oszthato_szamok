@@ -38,6 +38,7 @@ namespace _3_mal_osztatho_szamok
                         break;
                     }
             }
+            Console.WriteLine("Ügyes vagy");
             Console.ReadKey();
         }
     }
