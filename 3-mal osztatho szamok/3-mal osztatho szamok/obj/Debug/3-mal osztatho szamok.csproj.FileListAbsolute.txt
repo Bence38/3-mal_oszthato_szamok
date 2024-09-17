@@ -1,0 +1,7 @@
+J:\2024-2025\c#\3-mal_oszthato_szamok\3-mal osztatho szamok\3-mal osztatho szamok\bin\Debug\3-mal osztatho szamok.exe.config
+J:\2024-2025\c#\3-mal_oszthato_szamok\3-mal osztatho szamok\3-mal osztatho szamok\bin\Debug\3-mal osztatho szamok.exe
+J:\2024-2025\c#\3-mal_oszthato_szamok\3-mal osztatho szamok\3-mal osztatho szamok\bin\Debug\3-mal osztatho szamok.pdb
+J:\2024-2025\c#\3-mal_oszthato_szamok\3-mal osztatho szamok\3-mal osztatho szamok\obj\Debug\3-mal osztatho szamok.csproj.AssemblyReference.cache
+J:\2024-2025\c#\3-mal_oszthato_szamok\3-mal osztatho szamok\3-mal osztatho szamok\obj\Debug\3-mal osztatho szamok.csproj.CoreCompileInputs.cache
+J:\2024-2025\c#\3-mal_oszthato_szamok\3-mal osztatho szamok\3-mal osztatho szamok\obj\Debug\3-mal osztatho szamok.exe
+J:\2024-2025\c#\3-mal_oszthato_szamok\3-mal osztatho szamok\3-mal osztatho szamok\obj\Debug\3-mal osztatho szamok.pdb
